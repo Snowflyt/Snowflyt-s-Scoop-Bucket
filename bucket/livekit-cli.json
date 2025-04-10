@@ -1,10 +1,10 @@
 {
-    "version": "2.4.4",
+    "version": "2.4.5",
     "description": "Command line interface to LiveKit",
     "homepage": "https://github.com/livekit/livekit-cli",
     "license": "Apache",
-    "url": "https://github.com/livekit/livekit-cli/releases/download/v2.4.4/lk_2.4.4_windows_amd64.zip",
-    "hash": "d21a0e6fa458ec936eba34085ca6b9ac1b705350188ced9103636fc9bbcf7113",
+    "url": "https://github.com/livekit/livekit-cli/releases/download/v2.4.5/lk_2.4.5_windows_amd64.zip",
+    "hash": "95865c97714b2eae88be85ff7c7e0823262be6d23f1ea50e4e63a5f44efe0937",
     "bin": "lk.exe",
     "checkver": "github",
     "autoupdate": {

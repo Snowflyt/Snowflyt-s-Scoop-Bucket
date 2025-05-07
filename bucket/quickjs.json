@@ -4,19 +4,19 @@
     "homepage": "https://github.com/quickjs-ng/quickjs",
     "license": "MIT",
     "url": [
-        "https://github.com/quickjs-ng/quickjs/releases/download/v0.10.0/qjs-windows-x86_64.exe",
-        "https://github.com/quickjs-ng/quickjs/releases/download/v0.9.0/qjsc-windows-x86_64.exe#/qjsc.exe"
+        "https://github.com/quickjs-ng/quickjs/releases/download/v0.10.0/qjs-windows-x86_64.exe#/qjs.exe",
+        "https://github.com/quickjs-ng/quickjs/releases/download/v0.10.0/qjsc-windows-x86_64.exe#/qjsc.exe"
     ],
     "hash": [
         "e9d1bbe7d1d5f92bb4af39027d68d4eaa07ed9a3afda9e18ca7e4ad3288503d2",
-        "f94a8ac64096b0881afd29aaae6e9c9439bd88a451785270bed4cdb53f0b7583"
+        "ab303c60beccd3fb482804bcb3adcb7aaee09bf35c61ff417fe7bda980c68f12"
     ],
-    "bin": [
-        "qjs.exe",
-        "qjsc.exe"
-    ],
+    "bin": ["qjs.exe", "qjsc.exe"],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://github.com/quickjs-ng/quickjs/releases/download/v$version/qjs-windows-x86_64.exe"
+        "url": [
+            "https://github.com/quickjs-ng/quickjs/releases/download/v$version/qjs-windows-x86_64.exe#/qjs.exe",
+            "https://github.com/quickjs-ng/quickjs/releases/download/v$version/qjsc-windows-x86_64.exe#/qjsc.exe"
+        ]
     }
 }

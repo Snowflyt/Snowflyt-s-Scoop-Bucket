@@ -38,6 +38,7 @@ scoop install snowforge/<app_name>
 | [noxdir](https://github.com/crumbyte/noxdir)           | Terminal utility for visualizing file system usage.                            |
 | [ormolu](https://github.com/tweag/ormolu)              | A formatter for Haskell source code                                            |
 | [quickjs](https://github.com/quickjs-ng/quickjs)       | A mighty JavaScript engine                                                     |
+| [txiki.js](https://github.com/saghul/txiki.js)         | A tiny JavaScript runtime                                                      |
 | [tex-fmt](https://github.com/WGUNDERWOOD/tex-fmt)      | An extremely fast LaTeX formatter written in Rust                              |
 | [typos-lsp](https://github.com/tekumara/typos-lsp)     | Source code spell checker for Visual Studio Code, Neovim and other LSP clients |
 

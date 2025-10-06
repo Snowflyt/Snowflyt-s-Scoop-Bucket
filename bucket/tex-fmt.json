@@ -1,10 +1,10 @@
 {
-    "version": "0.5.5",
+    "version": "0.5.6",
     "description": "An extremely fast LaTeX formatter written in Rust",
     "homepage": "https://github.com/WGUNDERWOOD/tex-fmt",
     "license": "MIT",
-    "url": "https://github.com/WGUNDERWOOD/tex-fmt/releases/download/v0.5.5/tex-fmt-x86_64-windows.zip",
-    "hash": "ce0ac7eab8cee6a11f32f914a72eb4f73c7049d90dd53ab688755065082578dc",
+    "url": "https://github.com/WGUNDERWOOD/tex-fmt/releases/download/v0.5.6/tex-fmt-x86_64-windows.zip",
+    "hash": "7b0d3373374f61668f5a61726cd3f9cd4b96b1bbb15610f0c935b572cc6aa5fb",
     "bin": "tex-fmt.exe",
     "checkver": "github",
     "autoupdate": {

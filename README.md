@@ -30,16 +30,16 @@ scoop install snowforge/<app_name>
 ## Featured Apps
 
 | Manifest                                               | Description                                                                    |
-| ------------------------------------------------------ | ------------------------------------------------------------------------------ |
+| ------------------------------------------------------ | ------------------------------------------------------------------------------ | ------------------------------------------------ |
 | [evcxr](https://github.com/evcxr/evcxr)                | A Rust REPL                                                                    |
 | [evil-helix](https://github.com/usagi-flow/evil-helix) | Bringing the Helix editor to the evil side                                     |
 | [gfold](https://github.com/nickgerace/gfold)           | CLI tool to help keep track of your Git repositories, written in Rust          |
-| [io](https://iolanguage.org/)                          | A programming language focused on expressiveness through simplicity.           |
+| [io](https://iolanguage.org/)                          | A programming language focused on expressiveness through simplicity            |
+| [umka](https://github.com/vtereshkov/umka-lang)        |                                                                                | A statically typed embeddable scripting language |
 | [noxdir](https://github.com/crumbyte/noxdir)           | Terminal utility for visualizing file system usage.                            |
 | [ormolu](https://github.com/tweag/ormolu)              | A formatter for Haskell source code                                            |
 | [quickjs](https://github.com/quickjs-ng/quickjs)       | A mighty JavaScript engine                                                     |
 | [txiki.js](https://github.com/saghul/txiki.js)         | A tiny JavaScript runtime                                                      |
-| [tex-fmt](https://github.com/WGUNDERWOOD/tex-fmt)      | An extremely fast LaTeX formatter written in Rust                              |
 | [typos-lsp](https://github.com/tekumara/typos-lsp)     | Source code spell checker for Visual Studio Code, Neovim and other LSP clients |
 
 ## Contributing

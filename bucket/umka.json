@@ -1,0 +1,15 @@
+{
+    "version": "1.5.4",
+    "description": "A statically typed embeddable scripting language",
+    "homepage": "https://github.com/vtereshkov/umka-lang",
+    "license": "MIT",
+    "url": "https://github.com/vtereshkov/umka-lang/releases/download/v1.5.4/umka_1.5.4_windows_mingw.zip",
+    "hash": "dba76b303e37b0656e4f618d0b8b58ff93da5c782a88d9c1d6ea9bd2760e9263",
+    "extract_dir": "umka_1.5.4_windows_mingw",
+    "bin": "umka.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/vtereshkov/umka-lang/releases/download/v$version/umka_$version_windows_mingw.zip",
+        "extract_dir": "umka_$version_windows_mingw"
+    }
+}
